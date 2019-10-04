@@ -1,0 +1,21 @@
+body {
+  background: #333333;
+  color: white;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 50px;
+
+}
+
+.blue {
+  color: blue;
+}
+
+mark {
+  background-color: #333333;
+  color: blue;
+}
+
+.images {
+  text-align: center;
+}
